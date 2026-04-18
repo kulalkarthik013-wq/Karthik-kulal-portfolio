@@ -46,7 +46,7 @@ I specialize in creating AI-powered applications, automation workflows, and mode
 
 ## 📸 Live Demo
 
-👉 [View Portfolio](https://kulalkarthik013-wq.github.io/your-repo-name/)
+👉 [View Portfolio](https://kulalkarthik013-wq.github.io/Karthik-kulal-portfolio/)
 
 ---
 
